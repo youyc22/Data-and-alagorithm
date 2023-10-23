@@ -1,3 +1,5 @@
+//二进制按位相加后模3
+
 #include <stdio.h>
 #pragma warning (disable:4996)
 
