@@ -1,5 +1,5 @@
 # 带限矩阵方程组求解
-by  李锦朋时间限制: 1000 ms内存限制: 1500 KB
+by  李锦朋          时间限制: 1000 ms    内存限制: 1500 KB
 ## 问题描述
 ![image](https://github.com/youyc22/Data-and-alagorithm/assets/125688164/0da612f0-6a40-4ca2-8658-e0fe9e23ebeb)
 
