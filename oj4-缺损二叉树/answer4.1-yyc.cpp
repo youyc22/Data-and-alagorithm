@@ -1,3 +1,4 @@
+//此题有很简便的方法，不用建树，不过我懒得写了
 #include <stdio.h>
 #include <queue>
 #include <stack>
