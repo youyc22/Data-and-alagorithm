@@ -11,6 +11,6 @@ ee-2023-data-alagorithm
 | 2023205 | [信息传递](oj5-信息传递/Readme.md)                           | [答案](oj5-信息传递/answer5.1-yyc.cpp) | 分析 | 
 | 2023206 | [跳跳乐](oj6-跳跳乐/Readme.md)                               | [答案](oj6-跳跳乐/answer6.1-yyc.cpp) | 分析 | 
 | 2023207 | [带限矩阵方程组求解](oj7-带限矩阵方程组求解/Readme.md)         | [答案](oj7-带限矩阵方程组求解/oj7-yyc.cpp) | 分析 |
-| 2023208 | [缺失数据恢复](oj8-缺失数据恢复/Readme.md)                    | [答案]() | [分析](oj8-缺失数据恢复/analyze.md) |
+| 2023208 | [缺失数据恢复](oj8-缺失数据恢复/Readme.md)                    | [答案](oj8-缺失数据恢复/oj8answer-yyc.cpp) | [分析](oj8-缺失数据恢复/analyze.md) |
 | 2023209 | [小明的火车旅行计划](oj9-小明的火车旅行计划/Readme.md)         | [答案](oj9-小明的火车旅行计划/answer9-yyc.cpp) | [分析](oj9-小明的火车旅行计划/analyze.md) | 
 | 2023210 | [张量相乘的最小开销问题](oj10-张量相乘的最小开销问题/Readme.md) | [答案](oj10-张量相乘的最小开销问题/oj10-yyc.cpp) | [分析](oj10-张量相乘的最小开销问题/analyse.md) | 
